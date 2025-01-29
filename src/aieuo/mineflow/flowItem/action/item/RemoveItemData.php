@@ -14,7 +14,7 @@ use aieuo\mineflow\Main;
 use aieuo\mineflow\Mineflow;
 use aieuo\mineflow\utils\Language;
 use pocketmine\nbt\NbtException;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_eab1cdb1577fc133\SOFe\AwaitGenerator\Await;
 
 class RemoveItemData extends SimpleAction {
 

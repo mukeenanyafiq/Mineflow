@@ -9,7 +9,7 @@ use aieuo\mineflow\flowItem\argument\NumberArgument;
 use aieuo\mineflow\flowItem\base\SimpleAction;
 use aieuo\mineflow\flowItem\FlowItemCategory;
 use aieuo\mineflow\flowItem\FlowItemExecutor;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_eab1cdb1577fc133\SOFe\AwaitGenerator\Await;
 
 class SetScale extends SimpleAction {
 

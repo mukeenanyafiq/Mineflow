@@ -7,7 +7,7 @@ namespace aieuo\mineflow\flowItem\condition\entity;
 use aieuo\mineflow\flowItem\FlowItemCategory;
 use aieuo\mineflow\flowItem\FlowItemExecutor;
 use pocketmine\player\Player;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_eab1cdb1577fc133\SOFe\AwaitGenerator\Await;
 
 class IsActiveEntityVariable extends CheckEntityState {
 

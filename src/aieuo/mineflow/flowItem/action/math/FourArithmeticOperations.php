@@ -15,7 +15,7 @@ use aieuo\mineflow\utils\Language;
 use aieuo\mineflow\utils\Utils;
 use aieuo\mineflow\variable\DummyVariable;
 use aieuo\mineflow\variable\NumberVariable;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_eab1cdb1577fc133\SOFe\AwaitGenerator\Await;
 
 class FourArithmeticOperations extends SimpleAction {
 

@@ -6,7 +6,7 @@ namespace aieuo\mineflow\flowItem\action\script\ifelse;
 
 use aieuo\mineflow\flowItem\FlowItemExecutor;
 use aieuo\mineflow\utils\Language;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_eab1cdb1577fc133\SOFe\AwaitGenerator\Await;
 
 class IFNotAction extends IFActionBase {
 

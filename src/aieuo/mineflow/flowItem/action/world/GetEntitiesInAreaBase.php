@@ -13,7 +13,7 @@ use aieuo\mineflow\flowItem\FlowItemExecutor;
 use aieuo\mineflow\variable\ListVariable;
 use aieuo\mineflow\variable\object\EntityVariable;
 use pocketmine\entity\Entity;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_eab1cdb1577fc133\SOFe\AwaitGenerator\Await;
 use function array_map;
 
 abstract class GetEntitiesInAreaBase extends SimpleAction {

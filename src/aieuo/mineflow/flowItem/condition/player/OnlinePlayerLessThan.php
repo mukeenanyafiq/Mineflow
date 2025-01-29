@@ -6,7 +6,7 @@ namespace aieuo\mineflow\flowItem\condition\player;
 
 use aieuo\mineflow\flowItem\FlowItemExecutor;
 use pocketmine\Server;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_eab1cdb1577fc133\SOFe\AwaitGenerator\Await;
 use function count;
 
 class OnlinePlayerLessThan extends OnlinePlayerCount {
